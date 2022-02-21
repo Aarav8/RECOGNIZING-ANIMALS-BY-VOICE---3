@@ -1,0 +1,51 @@
+#mainDiv 
+{
+    background-color: cyan;
+}
+
+#heading1 
+{
+    background-color: lightgreen;
+}
+#heading 
+{
+    font-size: 45px;
+    font-family: 'Lobster' , cursive;
+    color: darkred;
+    font-weight: bold;
+}
+#note
+{
+    font-family: 'Syne Tactile', cursive;
+    color: blue;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+#lastdiv 
+{
+    background-color: khaki;
+}
+#footer-text
+{
+    font-size: 30px;
+    font-family: 'Syne Tactile', cursive;
+    text-shadow: 5px 5px 5px grey;
+}
+#lastdiv 
+{
+    width: 100%;
+    text-align: center;
+    bottom: 0px;
+    position: fixed;
+}
+#label , #Accuracy 
+{
+    font-family: 'Lobster' , cursive;
+}
+button 
+{
+
+    font-size: 30px;
+    font-family: 'Syne Tactile', cursive;
+    color: yellow;
+}
